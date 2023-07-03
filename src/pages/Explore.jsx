@@ -6,7 +6,7 @@ import Select from "react-select";
 import "./explore.scss";
 
 import useFetch from "../hooks/useFetch";
-import { fetchDataFromApi } from "../utlis/api ";
+import { fetchDataFromApi } from "../utlis/api";
 import ContentWrapper from "../components/ContentWrapper";
 import MovieCard from "../components/MovieCard";
 import Spinner from "../components/Spinner";
